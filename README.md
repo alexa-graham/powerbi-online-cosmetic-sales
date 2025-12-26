@@ -23,5 +23,5 @@ Interactive sales dashboard that tracks revenue trends, top products, and region
 - Multi-page layout
 
 # Preview:
-![Dashboard Preview]<img width="1110" height="582" alt="dashboard preview" src="https://github.com/user-attachments/assets/1a06e236-1e08-4d13-8866-c0715fe2ebf4" />
+<img width="1110" height="582" alt="dashboard preview" src="https://github.com/user-attachments/assets/1a06e236-1e08-4d13-8866-c0715fe2ebf4" />
 
