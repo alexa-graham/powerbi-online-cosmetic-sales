@@ -23,4 +23,4 @@ Interactive sales dashboard that tracks revenue trends, top products, and region
 - Multi-page layout
 
 # Preview:
-![Dashboard Preview](C:\Users\alexa\Downloads\archive (3)\dashboard preview.png)
+![Dashboard Preview](C:/Users/alexa/Downloads/archive (3)/dashboard preview.png)
